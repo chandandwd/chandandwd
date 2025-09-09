@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated GIF" width="400">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated GIF" width="600">
 </p>
 
 <h1 align="center">Hi 👋, I'm Chandan Dwivedi</h1>
